@@ -1,4 +1,5 @@
-const array = [1, 10, 2, 3, 2, 5, 7, 8, 6, 6, 8, 8, 11, 52];
+const array = [2,7,33,64,4];
+// Output: [7, 33, 64]
 const afterFilted = [];
 
 function customFilter(array, callback) {
